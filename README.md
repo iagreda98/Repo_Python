@@ -1,2 +1,2 @@
 # Repo_Python
-Repositorio para mis tares en el curso Python
+Repositorio para mis tareas en Python
